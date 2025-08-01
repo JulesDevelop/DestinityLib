@@ -13,7 +13,7 @@ subject to the following conditions:
 
 2. If the Software is used in a commercial product, clear and visible credit to the original author (Jules) must be provided. This includes:
    - Displaying the name of the library: **DestinityLib**
-   - Providing a link to the original repository: [https://github.com/ton-user/ton-repo](https://github.com/ton-user/ton-repo)
+   - Providing a link to the original repository: https://github.com/JulesDevelop/DestinityLib
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
