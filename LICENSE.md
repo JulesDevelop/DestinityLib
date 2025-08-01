@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Jules
+Copyright (c) 2025 JulesDevelop 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
@@ -11,7 +11,7 @@ subject to the following conditions:
 
 1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-2. If the Software is used in a commercial product, clear and visible credit to the original author (Jules) must be provided. This includes:
+2. If the Software is used in a commercial product, clear and visible credit to the original author (JulesDevelop) must be provided. This includes:
    - Displaying the name of the library: **DestinityLib**
    - Providing a link to the original repository: https://github.com/JulesDevelop/DestinityLib
 
